@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "339738679061",
+        "project_id": "fir-testing-79f84",
+        "storage_bucket": "https://fir-testing-79f84-default-rtdb.europe-west1.firebasedatabase.app/"
+    },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339738679061:android:9ca024511f83005494bb1c",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.PIBOCO"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+            "current_key": "TJ1rJBTuFYc6yezOOWZ27c6RjIaF6J44m3NB659u"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
